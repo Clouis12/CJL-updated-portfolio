@@ -4,6 +4,8 @@ Link to Updated Portfolio: https://clouis12.github.io/CJL-updated-portfolio/#wor
 
 Link to Repository: https://github.com/Clouis12/CJL-updated-portfolio
 
+Link to Github profile: https://github.com/Clouis12
+
 While Updating my Portfolio I mainly used CSS/HTML.
 
 This website is an updated version of my Portfolio. While updating my Portfilo i've Updated the The HTML/CSS. 
