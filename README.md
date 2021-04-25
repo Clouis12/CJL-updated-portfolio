@@ -2,7 +2,7 @@
 
 Link to Updated Portfolio: https://clouis12.github.io/CJL-updated-portfolio/#work
 
-While Updating my Portfolio I mainly used CSS/HTML
+While Updating my Portfolio I mainly used CSS/HTML.
 
 This website is an updated version of my Portfolio. While updating my Portfilo i've Updated the The HTML/CSS. 
 
