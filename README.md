@@ -1,7 +1,7 @@
 # CJL-Updated-Portfolio
 
-Link to Updated Portfolio: https://clouis12.github.io/CJL-updated-portfolio/#work
-
+Link to Updated Portfolio: https://clouis12.github.io/portfolio
+        
 Link to Repository: https://github.com/Clouis12/CJL-updated-portfolio
 
 Link to Github profile: https://github.com/Clouis12
